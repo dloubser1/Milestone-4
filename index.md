@@ -34,3 +34,7 @@ Experiments. We want to have some groups using the note taking features and then
 * How might you conduct your testing procedure safely during a pandemic?
 
      - The students and teachers involved will be using Zoom, so social distancing will be in place by default. Further, interviews with participants may be conducted through Zoom. There will be no face-to-face interaction at all for this study. 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Part C
