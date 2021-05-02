@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## Part A
 
-You can use the [editor on GitHub](https://github.com/dloubser1/Milestone-4/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### User Stories and Prototypes
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* User Stories 1 and 2: As a student, I want to type out my notes so that my notes are orderly and easy to read & as a student, I want to save my notes so that I can review the material later.
 
-### Markdown
+     - The main elements of the prototype include the ability to open a new menu and gain access to the notes options contained therein. In addition, the option to open a new notes document with a shortcut is also provided to facilitate quick access to notes during class.  Students then have the option to type out their notes in an unobstructive manner within the Zoom meeting. Further, the students can then save their notes to a cloud specific to that Zoom meeting, and access those notes later if necessary. They can download these notes to their desktop so that they can have offline access as well.
+* User Story 3: As a teacher I want to be able to check on student participation so I can check on those that are struggling with the class and help them stay focused.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+     - The teacher in a Zoom meeting is given additional tools to monitor the class that they would not have otherwise. A teacher conducting a Zoom lecture generally has little to no responses and reactions from the students regarding the content being presented, so they are given an additional tool in the form of monitoring how their students are participating by looking at their notes and being notified if a student significantly deviates from the rest of the class’s most recent edits.
 
-```markdown
-Syntax highlighted code block
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Header 1
-## Header 2
-### Header 3
+## Part B
 
-- Bulleted
-- List
+### Research Question
 
-1. Numbered
-2. List
+What effect does the ability to have students take notes and having teachers check who is taking notes have on the hybrid synchronous learning experience?
 
-**Bold** and _Italic_ and `Code` text
+### Methodology
 
-[Link](url) and ![Image](src)
-```
+Experiments. We want to have some groups using the note taking features and then some who do not have access to it. This is so we can have a comparison between those who use the feature and those who don’t.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Testing Procedure
 
-### Jekyll Themes
+* What is your specific plan to deal with informed consent?
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dloubser1/Milestone-4/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+     - We will brief every person within the study about the purposes of it and let them know we will be collecting their response to the features after the study is complete. Because we may be including minors in our study, their parents will also be a part of this briefing and have to sign off on their students participating. Everyone will sign a consent form before beginning the experiment. 
 
-### Support or Contact
+* What specific data will you collect and how will it be organized?
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* What type of analysis do you intend to to perform with the study data, and how will that analysis help answer your research question?
+
+* How might you conduct your testing procedure safely during a pandemic?
+
+     - The students and teachers involved will be using Zoom, so social distancing will be in place by default. Further, interviews with participants may be conducted through Zoom. There will be no face-to-face interaction at all for this study. 
