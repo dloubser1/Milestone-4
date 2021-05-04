@@ -5,9 +5,12 @@
 * User Stories 1 and 2: As a student, I want to type out my notes so that my notes are orderly and easy to read & as a student, I want to save my notes so that I can review the material later.
 
      - The main elements of the prototype include the ability to open a new menu and gain access to the notes options contained therein. In addition, the option to open a new notes document with a shortcut is also provided to facilitate quick access to notes during class.  Students then have the option to type out their notes in an unobstructive manner within the Zoom meeting. Further, the students can then save their notes to a cloud specific to that Zoom meeting, and access those notes later if necessary. They can download these notes to their desktop so that they can have offline access as well.
+     - {% include youtubePlayer.html id="5GmUbZkU9uw" %}
+
 * User Story 3: As a teacher I want to be able to check on student participation so I can check on those that are struggling with the class and help them stay focused.
 
      - The teacher in a Zoom meeting is given additional tools to monitor the class that they would not have otherwise. A teacher conducting a Zoom lecture generally has little to no responses and reactions from the students regarding the content being presented, so they are given an additional tool in the form of monitoring how their students are participating by looking at their notes and being notified if a student significantly deviates from the rest of the class’s most recent edits.
+     - {% include youtubePlayer.html id="nr-oXLR6BEY" %}
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -23,17 +26,32 @@ Experiments. We want to have some groups using the note taking features and then
 
 ### Testing Procedure
 
-* What is your specific plan to deal with informed consent?
+* We plan to conduct our test as an experiment on two groups of subjects, which are students of varying levels of education (specific to each lecture being given). One group will be a control and one will be an experimental group. 
 
-     - We will brief every person within the study about the purposes of it and let them know we will be collecting their response to the features after the study is complete. Because we may be including minors in our study, their parents will also be a part of this briefing and have to sign off on their students participating. Everyone will sign a consent form before beginning the experiment. 
+#### Informed Consent
 
-* What specific data will you collect and how will it be organized?
+* Both groups will be informed about the basic goal of the study, that is examining a method to allow students better access to a note taking application online. 
+* They will not be informed about the aspect of the study that examines how distracted a participant may become during a lecture; however, they will be given a debrief post-interview that explains that part of the study as well. 
+* Participants will sign a consent form at the beginning of the experiment that allows the researchers to obtain screen recordings from them as well as conduct an interview after the lecture is done.
 
-* What type of analysis do you intend to to perform with the study data, and how will that analysis help answer your research question?
+#### Collection of Data
 
-* How might you conduct your testing procedure safely during a pandemic?
+* The control group will attend a Zoom lecture as they normally would and take notes however they see fit, although we will collect a screen recording of their process if done online and a physical recording if done with pen and paper. 
+* The experimental group will have their Zoom window screen recorded. Both groups may attend these meetings wherever they see fit, but they will be encouraged to do so in the setting they commonly attend any online classes they have. 
+* Both groups will attend an interview after the Zoom lecture in which we will gauge their experiences, like how easily they found taking notes to be and if they became distracted during the lecture. 
+* From this interview, we will collect any criticism the experimental group has for the software and how it may be improved as well as how much experience participants have with taking notes digitally. 
+* In addition to this, screen recordings will be used to examine any difficulties an experimental participant had with the software. Collected data will be stored anonymously, with the only association being a corresponding video of a screen recording.
 
-     - The students and teachers involved will be using Zoom, so social distancing will be in place by default. Further, interviews with participants may be conducted through Zoom. There will be no face-to-face interaction at all for this study. 
+#### Analysis of Data
+
+* Analysis of the data will be done through comparisons drawn between the experimental group and control group. 
+* These comparisons will include how often the participant became distracted during the lecture as well as how often and how well they took notes. 
+* Screen recordings will then be looked at to determine if users with and without experience taking notes digitally had any difficulty with using the integrated note application or features therein.
+
+#### Safety of Procedure
+
+* The experiment will be done in accordance with pandemic rules put in place by the government, but both the lecture and the subsequent interview and debrief will be done over Zoom so social distancing is in place by default.
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
