@@ -47,12 +47,15 @@ Experiments. We want to have some groups using the note taking features and then
 * Both groups will attend an interview after the Zoom lecture in which we will gauge their experiences, like how easily they found taking notes to be and if they became distracted during the lecture. 
 * From this interview, we will collect any criticism the experimental group has for the software and how it may be improved as well as how much experience participants have with taking notes digitally. 
 * In addition to this, screen recordings will be used to examine any difficulties an experimental participant had with the software. Collected data will be stored anonymously, with the only association being a corresponding video of a screen recording.
+* Teachers will have a similar but not the same experience as students. 
+* They will be given a full brief on the problem of study, which includes the distraction aspect that students miss initially. 
+* Teachers will be expected to screen record their lectures and attend an interview afterwards to gauge their experiences and thoughts on the integrated note taker and the teacher-side of the program that allows them to view what students are doing or not doing
 
 #### Analysis of Data
 
 * Analysis of the data will be done through comparisons drawn between the experimental group and control group. 
 * These comparisons will include how often the participant became distracted during the lecture as well as how often and how well they took notes. 
-* Screen recordings will then be looked at to determine if users with and without experience taking notes digitally had any difficulty with using the integrated note application or features therein.
+* Screen recordings will then be looked at to determine if users with and without experience taking notes digitally had any difficulty with using the integrated note application or features therein for both students or teachers.
 
 #### Safety of Procedure
 
