@@ -58,3 +58,7 @@ Experiments. We want to have some groups using the note taking features and then
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Part C
+
+### Summary Video
+
+{% include youtubePlayer.html id="ZMpw9B9Vth4" %}
