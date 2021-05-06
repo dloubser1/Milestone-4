@@ -8,11 +8,15 @@
 
 {% include youtubePlayer.html id="5GmUbZkU9uw" %}
 
+[Download File for Student Prototype!](https://github.com/dloubser1/Milestone-4/blob/gh-pages/Prototype%20WIP%20version%203.xd?raw=true)
+
 * User Story 3: As a teacher I want to be able to check on student participation so I can check on those that are struggling with the class and help them stay focused.
 
      - The teacher in a Zoom meeting is given additional tools to monitor the class that they would not have otherwise. A teacher conducting a Zoom lecture generally has little to no responses and reactions from the students regarding the content being presented, so they are given an additional tool in the form of monitoring how their students are participating by looking at their notes and being notified if a student significantly deviates from the rest of the class’s most recent edits.
 
 {% include youtubePlayer.html id="nr-oXLR6BEY" %}
+
+[Download File for Teacher Prototype!](https://github.com/dloubser1/Milestone-4/blob/gh-pages/teacher%20prototype.xd?raw=true)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
