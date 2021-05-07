@@ -8,7 +8,9 @@
 
 {% include youtubePlayer.html id="5GmUbZkU9uw" %}
 
-[Download File for Student Prototype!](https://github.com/dloubser1/Milestone-4/blob/gh-pages/Prototype%20WIP%20version%203.xd?raw=true)
+Images from the prototype: [Student Prototype 1](/prototypes/images/Student_Prototype_1.png), [Student Prototype 2](/prototypes/images/Student_Prototype_2.png), [Student Prototype 3](/prototypes/images/Student_Prototype_3.png), [Student Prototype 4](/prototypes/images/Student_Prototype_4.png), [Student Prototype 5](/prototypes/images/Student_Prototype_5.png), [Student Prototype 6](/prototypes/images/Student_Prototype_6.png), [Student Prototype 7](/prototypes/images/Student_Prototype_7.png), [Student Prototype 8](/prototypes/images/Student_Prototype_8.png), [Student Prototype 9](/prototypes/images/Student_Prototype_9.png), [Student Prototype 10](/prototypes/images/Student_Prototype_10.png), [Student Prototype 11](/prototypes/images/Student_Prototype_11.png), [Student Prototype 12](/prototypes/images/Student_Prototype_12.png), [Student Prototype 13](/prototypes/images/Student_Prototype_13.png)
+
+[Download File for Student Prototype!](https://github.com/dloubser1/Milestone-4/blob/gh-pages/prototypes/uwhy_student_prototype.xd?raw=true)
 
 * User Story 3: As a teacher I want to be able to check on student participation so I can check on those that are struggling with the class and help them stay focused.
 
@@ -16,7 +18,9 @@
 
 {% include youtubePlayer.html id="nr-oXLR6BEY" %}
 
-[Download File for Teacher Prototype!](https://github.com/dloubser1/Milestone-4/blob/gh-pages/teacher%20prototype.xd?raw=true)
+Images for the prototype: [Teacher Prototype 1](/prototypes/images/Teacher_Prototype_1.png), [Teacher Prototype 2](/prototypes/images/Teacher_Prototype_2.png), [Teacher Prototype 3](/prototypes/images/Teacher_Prototype_3.png), [Teacher Prototype 4](/prototypes/images/Teacher_Prototype_4.png), [Teacher Prototype 5](/prototypes/images/Teacher_Prototype_5.png), [Teacher Prototype 6](/prototypes/images/Teacher_Prototype_6.png), [Teacher Prototype 7](/prototypes/images/Teacher_Prototype_7.png)
+
+[Download File for Teacher Prototype!](https://github.com/dloubser1/Milestone-4/blob/gh-pages/prototypes/uwhy_teacher_prototype.xd?raw=true)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
